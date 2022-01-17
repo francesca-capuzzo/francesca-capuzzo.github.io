@@ -1,0 +1,62 @@
+body{
+    margin: 0px;
+    padding: 0px;  
+    background-color: rgb(211, 202, 210); 
+    text-align: center;
+}
+
+
+.nav-index{
+    text-align: center;
+    padding: 0px;
+}
+
+
+.nav-index-link{
+    border-style: solid;
+    border-color: rgb(37, 30, 33);
+    text-decoration: none;
+    color: rgb(37, 30, 33);
+    display: block;
+    border-radius: 5px;
+    border-width: 1px;
+    margin: 30px;
+    width: auto;
+}
+
+
+.title-section,
+.contacts-section{
+    padding: 70px;
+}
+
+
+.contacts,
+.contacts-links,
+.education-links{    
+    text-decoration: none;
+    display: block;
+    padding: 4px;
+    color: black;
+}
+
+
+section{
+    max-width: 800px;
+    margin: auto;
+    padding: 4px;
+}
+
+
+.header-menu{
+    background-color: rgb(85, 77, 80);
+    padding: 5px;
+    text-align: center;
+    color: whitesmoke;
+}
+
+
+li{
+    text-align: justify;
+}
+
